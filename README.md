@@ -2,6 +2,8 @@
 
 ### Build a Heat Map with D3
 
+Try it on Codepen: https://codepen.io/Romugar/pen/gdJPro
+
 #### Objective
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/JEXgeY.
